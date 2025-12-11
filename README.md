@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nfs.
+- 🔭 I’m currently working on loongson.
 - 🌱 I’m currently learning wine.
 - 💬 Ask me about linux,C++,golang.
 - 📫 You can find my contact information on the left.
